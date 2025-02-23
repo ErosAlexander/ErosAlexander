@@ -102,12 +102,7 @@
 ###
 ## Conéctate conmigo
 
-<a href="www.linkedin.com/in/eros-diaz">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="38" alt="LinkedIn" />
-</a>
-<img width="12" />
-
-<a href="https://www.instagram.com/eros_alexandroo/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="38" alt="Instagram" />
-</a>
-<img width="12" />
+<p align="left">
+  <a href="https://www.linkedin.com/in/eros-diaz/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white" height="38" img width="80" alt="Linkedin IMG"/></a>
+  <a href="mailto:erosdc2018@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white" height="38" img width="80" alt="Gmail IMG"/></a>
+</p>
