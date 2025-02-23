@@ -100,3 +100,14 @@
 - **Oracle Cloud Infraestructure**  
 
 ###
+## Conéctate conmigo
+
+<a href="www.linkedin.com/in/eros-diaz">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="38" alt="LinkedIn" />
+</a>
+<img width="12" />
+
+<a href="https://www.instagram.com/eros_alexandroo/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="38" alt="Instagram" />
+</a>
+<img width="12" />
