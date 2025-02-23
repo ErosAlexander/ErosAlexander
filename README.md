@@ -41,7 +41,7 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" height="40" alt="Excel logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Office_Excel_%282018%E2%80%93present%29.svg" height="40" alt="Excel logo" />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Google_Sheets_logo.svg" height="40" alt="Google Sheets logo" />
   <img width="12" />
