@@ -41,17 +41,17 @@
 
 ###
 
-<p align="left">✨Apacionado por la tecnologia, economía y desarrollo<br>
-  📚 Actualmente estoy estudiando:
+<p align="left"><strong>✨Apacionado por la tecnologia, economía y desarrollo<br></strong>
+  <strong>📚 Actualmente estoy estudiando:</strong>
   <br>-Data Science con AI % Oracle Cloud Infraestructure - Alura Latam y Oracle Next Education
   <br>-Especializacion en Ecommerce y Data Analytics - Semillero Digital
   <br>-Data Engineer - Udemy (Learning path)<br>
-  🎯 Objetivo: Aportar al desarrollo tecnologia como un excelente profesional<br>
-  🧑‍💼 Mi historia: Me gradué de la secundaria como técnico químico, profesión que a día de hoy ya no ejerzo porque descubrí mi pasión por la tecnología, los números y la economía.<br> Descubrir que podría trabajar alrededor de mis pasiones me hizo lanzarme a esta área, una decisión que me agradeceré siempre y me gustaría que más gente tome coraje para incursionar en este maravilloso mundo.</p>
+  <strong>🎯 Objetivo: Aportar al desarrollo tecnologia como un excelente profesional<br></strong>
+  <strong>🧑‍💼 Mi historia:</strong> Me gradué de la secundaria como técnico químico, profesión que a día de hoy ya no ejerzo porque descubrí mi pasión por la tecnología, los números y la economía.<br> Descubrir que podría trabajar alrededor de mis pasiones me hizo lanzarme a esta área, una decisión que me agradeceré siempre y me gustaría que más gente tome coraje para incursionar en este maravilloso mundo.</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Tecnologias que utilizo</h2>
 
 ###
 
