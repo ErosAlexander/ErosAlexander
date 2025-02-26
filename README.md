@@ -54,7 +54,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ErosAlexander&theme=highcontrast)](https://git.io/streak-stats)
 
-
+</div>
 ###
 
 <h2 align="left">Tecnologias que utilizo</h2>
