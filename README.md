@@ -50,10 +50,10 @@
   <strong>🧑‍💼 Mi historia:</strong> Me gradué de la secundaria como técnico químico, profesión que a día de hoy ya no ejerzo porque descubrí mi pasión por la tecnología, los números y la economía.<br> Descubrir que podría trabajar alrededor de mis pasiones me hizo lanzarme a esta área, una decisión que me agradeceré siempre y me gustaría que más gente tome coraje para incursionar en este maravilloso mundo.</p><br>
 
 <div align="center">
-<strong> GitHub Activity ✔:</strong>
+<strong> GitHub Activity ✔ </strong>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ErosAlexander&theme=highcontrast)](https://git.io/streak-stats)
-</div>
+
 
 ###
 
